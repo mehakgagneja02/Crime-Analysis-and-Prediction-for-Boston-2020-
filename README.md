@@ -1,0 +1,2 @@
+# Crime-Analysis-and-Prediction-for-Boston-2020-
+The project analyzes Boston's 2020 Crime Incident Report dataset, comprising 70,894 records &amp; 12 attributes. Using Python, it addresses key questions like top offenses, shootings, hourly &amp; district crime patterns, &amp; predictive models. Overall, it aims to inform law enforcement &amp; policymakers, enhancing public safety &amp; resource allocation in Boston.
